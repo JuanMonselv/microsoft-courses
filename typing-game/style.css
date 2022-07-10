@@ -2,7 +2,7 @@
     background-color: white;
     color: black;
     border-radius: 5px;
-    padding: 5px;
+    padding: 4px;
   }
   
   .error {
@@ -19,18 +19,29 @@ body {
 h1 {
     color: #0dbaff;
     text-align: center;
-	  font-size: 45px;
+    margin-bottom: 50px;
+    font-size: 45px;
+}
+
+p{
+  margin: 10px;
+}
+
+#span{
+  padding: 10px;
+  margin-bottom: 30px;
 }
 
 #quotesContainer{
   border: 1px;
   visibility: hidden;
-  padding: 5px;
+  padding: 10px;
   display: none;
   border-radius: 10px;
   background-color: #0dbaff;
   margin: 40px ;
   color: #fff;
+  font-weight: 400;
 }
 
 #typed-value {
@@ -46,7 +57,6 @@ h1 {
   outline: none;
   border: 1px solid #cac5c5;
 }
-
 
 #start {
   padding: 13px;
