@@ -7,6 +7,7 @@ const quotes = [
     'What one man can invent another can discover.',
     'Nothing clears up a case so much as stating it to another person.',
     'Education never ends, Watson. It is a series of lessons, with the greatest for the last.',
+    'perro hpta'
 ];
 // store the list of words and the index of the word the player is currently typing
 let words = [];
